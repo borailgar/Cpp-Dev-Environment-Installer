@@ -127,7 +127,7 @@ then
 	tar -xvzf cmake-3.20.0-rc3.tar.gz
 	sudo rm -rf cmake-3.20.0-rc3.tar.gz
 	cd cmake-3.20.0-rc3
-	sudo ./boostrap
+	sudo ./bootstrap
 	sudo make 
 	sudo make install
 fi
