@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # Spesific installation flags
 gxx_only=false
 make_only=false
